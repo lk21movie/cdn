@@ -1,0 +1,56 @@
+{
+ "name": "Layarkaca21 - Nonton Streaming Movies",
+ "short_name": "Lk21",
+ "description": "Nonton Streaming Sub Indonesia",
+ "theme_color": "#e50a4a",
+ "display": "standalone",
+ "id":"\/",
+ "start_url": "\/",
+ "scope":"\/",
+ "gcm_sender_id": "602505118172",
+ "gcm_sender_id_comment": "Lk21",
+ "icons": [
+  {
+   "src": "\/wp-content\/themes\/dunia21\/images\/favicon-set\/android-icon-36x36.png",
+   "sizes": "36x36",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+  {
+   "src": "\/wp-content\/themes\/dunia21\/images\/favicon-set\/android-icon-48x48.png",
+   "sizes": "48x48",
+   "type": "image\/png",
+   "density": "1.0"
+  },
+  {
+   "src": "\/wp-content\/themes\/dunia21\/images\/favicon-set\/android-icon-72x72.png",
+   "sizes": "72x72",
+   "type": "image\/png",
+   "density": "1.5"
+  },
+  {
+   "src": "\/wp-content\/themes\/dunia21\/images\/favicon-set\/android-icon-96x96.png",
+   "sizes": "96x96",
+   "type": "image\/png",
+   "density": "2.0"
+  },
+  {
+   "src": "\/wp-content\/themes\/dunia21\/images\/favicon-set\/android-icon-144x144.png",
+   "sizes": "144x144",
+   "type": "image\/png",
+   "density": "3.0"
+  },
+  {
+   "src": "\/wp-content\/themes\/dunia21\/images\/favicon-set\/android-icon-192x192.png",
+   "sizes": "192x192",
+   "type": "image\/png",
+   "density": "4.0"
+  },
+  {
+    "src": "\/wp-content\/themes\/dunia21\/images\/favicon-set\/chrome-200x200.jpg",
+    "sizes": "200x200",
+    "type": "image\/jpeg",
+    "density": "4.0"
+   }
+ ]
+}
